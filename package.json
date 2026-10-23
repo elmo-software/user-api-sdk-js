@@ -1,7 +1,7 @@
 {
-  "name": "elmo-user-api-sdk",
-  "version": "0.1.0",
-  "description": "OpenAPI client for elmo-user-api-sdk",
+  "name": "@elmo-software/user-api-sdk",
+  "version": "0.1.1",
+  "description": "OpenAPI client for @elmo-software/user-api-sdk",
   "author": "OpenAPI-Generator",
   "repository": {
     "type": "git",
